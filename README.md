@@ -1,16 +1,14 @@
-## Hi there 👋
+## Yooo, welcome to my Github ☕
+I`m a junior backend dev focused on API development.  
 
-<!--
-**Paszmani/Paszmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies that I currently know and work with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✓ Java | SpringBoot
+<br />
+✓ JavaScript 
+<br />
+✓ C#
+<br />
+✓ MySQL | PostgreSQL
+<br />
+✓ Git | Github
