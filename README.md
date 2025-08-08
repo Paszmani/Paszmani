@@ -11,4 +11,6 @@ Technologies that I currently know and work with:
 <br />
 ✓ MySQL | PostgreSQL
 <br />
+✓ Docker
+<br />
 ✓ Git | Github
