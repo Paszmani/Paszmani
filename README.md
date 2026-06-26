@@ -14,3 +14,5 @@ Technologies that I currently know and work with:
 ✓ Docker
 <br />
 ✓ Git | Github
+<br />
+✓ Typescript
